@@ -15,7 +15,7 @@ Un gusto en saludarte si estas viendo mi perfil es porque algo te interesa y te 
 </p>
 <ul><li>HTML: Maquetacion</li><li>Css3: Diseno y responsividad</li><li>Javascript: maipulacion del dom, interactividad, consumo de Apis</li><li>Git: Gestor de versiones</li><li>React-Js: componentes, hooks, router, provider, cliente</li></ul>
 
-### Certificaciones
+### Cursos y Certificaciones
 
 <ul>
   <li><a href="https://app.aluracursos.com/certificate/3d4ebbd0-baed-40b7-9a8d-151ba54c6928">   Git y Github: repositorio, commit y versiones </a></li>
@@ -39,6 +39,16 @@ Un gusto en saludarte si estas viendo mi perfil es porque algo te interesa y te 
   ### Redes Sociales
 
 <p align="left"> <a href="https://www.github.com/julioxido" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/julio-cesar-realza-rojas-/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Proyectos personales 
+--------------------------
+<ul>
+  <li>Encriptador de textos ----->   <a href="https://julioxido.github.io/EncriptadorTexto/">Clickeame</a> </li>
+  <li>Portafolio de habilidades en javascript puro ----->   <a href="https://julioxido.github.io/miPortafolio-Js-Puro/">Clickeame</a> </li>
+</ul>
+
+--------------------------
+
 
 <!--  
 ### Badges
