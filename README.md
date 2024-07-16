@@ -44,7 +44,9 @@ Un gusto en saludarte si estas viendo mi perfil es porque algo te interesa y te 
 --------------------------
 <ul>
   <li>Encriptador de textos ----->   <a href="https://julioxido.github.io/EncriptadorTexto/">Clickeame</a> </li>
+   <li>Juega un numero secreto ----->   <a href="https://julioxido.github.io/numero-secreto/">Clickeame</a> </li>
   <li>Portafolio de habilidades en javascript puro ----->   <a href="https://julioxido.github.io/miPortafolio-Js-Puro/">Clickeame</a> </li>
+  
 </ul>
 
 --------------------------
